@@ -1,1 +1,1 @@
-print("Sampath erripukuu")
+print("Sampath Good Boy")
